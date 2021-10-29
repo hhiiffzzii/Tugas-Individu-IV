@@ -10,9 +10,9 @@ Membuat flowchart dan source code (Python) menggunakan Flowgorithm dan VS Code, 
 - Kemudian ketik ulang SC pada flowgorithm ke Vs- code, Jalakan sampai menemukan Hasil (setiap soal permasalah).<br><br>
 
 Keterangan* :
-- s = jarak (km)
+- s = jarak
 - v = kecepatan
-- t = waktu (menit)
+- t = waktu
 
 ## Versi Flowgorithm
 
